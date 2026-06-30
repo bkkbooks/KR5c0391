@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR5c0391/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR5c0391/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 莊子
+  identifiers:
+    krp: KR5c0391
+  tags:
+    tls-internal: swl
+    kr-categories: KR5c
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0391.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR5c0391_001-CHANT.yaml, hash: 'sha256:b8447e86455da132ebd4881bc4b0c6dfdfb04cf6178adb0e489c7bc13eb06cc3'}
+  - {seq: 2, filename: KR5c0391_002-CHANT.yaml, hash: 'sha256:66c2836834fb190b1eadd4736232e910266c16ab91fd644475f07d216cc04b9c'}
+  - {seq: 3, filename: KR5c0391_003-CHANT.yaml, hash: 'sha256:260609f7ce53c344cf4e39aca8daf3a76c95647182081a586eecb2ea2920b2e6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0391_001-CHANT.markers.yaml, hash: 'sha256:1dc722d12ed037a325bbff2c480db0727ea3655aca3cade12bfa54e667f82ef3'}
+  - {seq: 2, role: markers, filename: assets/KR5c0391_002-CHANT.markers.yaml, hash: 'sha256:3b2b69ef2fe7d03d6e01d9cc52c6f77cba555d1fb483f35bf118a66eb13ba311'}
+  - {seq: 3, role: markers, filename: assets/KR5c0391_003-CHANT.markers.yaml, hash: 'sha256:8e7b6f5fcfebcde566dd8f51c6f013379b0e888dedcfecca06d2113359a76f42'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0391_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 107
+  label: 莊子雜篇則陽二十五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0391_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 224
+  label: 莊子雜篇外物二十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0391_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 299
+  label: 莊子雜篇讓王二十八
+  type: section
+  level: 1
+hash: sha256:6c50bf7397a101786c9c6804492b64b1c20d42d8ca923d9b8c0ca80839a37f16

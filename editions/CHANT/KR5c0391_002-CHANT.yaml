@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5c0391/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子雜篇外物二十六宋元君夜夢丈夫衣被被髮窺阿門曰予自宰路之淵予為清江使河伯之所漁者余且得予元君覺使人占之曰是龜也君曰漁者有余且乎左右曰有君曰令余且會朝明日余且朝君曰漁何得曰得龜往視其圓五尺君曰君曰獻若之龜龜至君再欲殺之再欲活之心疑卜之曰殺龜以卜吉乃刳龜七十二鑽而无遺筴仲尼曰神能見夢於元君而不能避余且之網事七十兆而無遺筴故不能避刳腸之患龜有所不知而神有所不及也雖有至知萬人謀之魚不畏網而畏鵜鶦去小知而大知明去善而自善矣嬰兒生无石師而能言與能言者處也
+  hash: sha256:49570db75e95e4fa2ee4051b32d36172531785f10c9163ae31ef769cddc4e0b8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5c0391_CHANT_002-1a.1-h}
+metadata:
+  title: 莊子
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0391.xml
+hash: sha256:66c2836834fb190b1eadd4736232e910266c16ab91fd644475f07d216cc04b9c
