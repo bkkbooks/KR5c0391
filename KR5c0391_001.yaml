@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 莊子雜篇則陽二十五蘧伯玉行年六十而六十化未嘗不始於是之而卒詘之以非也未知今之所謂是之非五十九非也萬物有乎生莫見其根有乎出而莫見其門人皆尊其知之所知而莫知恃其知之所不知而後知可不謂大疑乎已乎已乎且無所逃此所謂然與然乎
-  hash: sha256:93a9862be23c8ac2ffb223d0ffa15ac155a850b6d725a0d22431b42fa75621b8
+  text: 莊子雜篇則陽二十五蘧伯玉行年六十而六十化未嘗不始於是之而卒詘之以非也未知今之所謂是之非五十九非也萬物有乎生莫見其根有乎出而莫見其門人皆尊其知之所知而莫知恃其知之所不知而後知可不謂大疑乎已乎已乎且无所逃此所謂然與然乎
+  hash: sha256:5e5be0ff5c35cf059b176f09bde417ecebbdcbd6bd6b783fec296cd3944b0b4a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR5c0391_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0391.xml
-hash: sha256:81ec87dc9aa80b8d718a118994a63edaaaabf199bdf0e99ce3c2fccc2e64bf9d
+hash: sha256:b8447e86455da132ebd4881bc4b0c6dfdfb04cf6178adb0e489c7bc13eb06cc3
