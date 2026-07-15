@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5c0391/v1
 canonical_location: https://kanripo.org/bkk/KR5c0391/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 莊子
   identifiers:
@@ -18,13 +18,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR5c0391_001.yaml, hash: 'sha256:b8447e86455da132ebd4881bc4b0c6dfdfb04cf6178adb0e489c7bc13eb06cc3'}
-  - {seq: 2, filename: KR5c0391_002.yaml, hash: 'sha256:66c2836834fb190b1eadd4736232e910266c16ab91fd644475f07d216cc04b9c'}
-  - {seq: 3, filename: KR5c0391_003.yaml, hash: 'sha256:260609f7ce53c344cf4e39aca8daf3a76c95647182081a586eecb2ea2920b2e6'}
+  - {seq: 1, filename: KR5c0391_001.yaml, hash: 'sha256:81ec87dc9aa80b8d718a118994a63edaaaabf199bdf0e99ce3c2fccc2e64bf9d'}
+  - {seq: 2, filename: KR5c0391_002.yaml, hash: 'sha256:db2299d7327529cd838a74ebcb7d1a265132a8e771f7eed3f77134626225eb39'}
+  - {seq: 3, filename: KR5c0391_003.yaml, hash: 'sha256:a0306061ae423ccc7255bfd56b7cb7bd78832a1554154e539ed1bf21a1f0c187'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5c0391_001.markers.yaml, hash: 'sha256:b6e4acb80b9a9e42c79db5459b3b73ef55a7f04dacb06ad941ac78877e81c3f4'}
-  - {seq: 2, role: markers, filename: assets/KR5c0391_002.markers.yaml, hash: 'sha256:2f89a27e1803f5e70b7c35016d6372b56410c3b5a4328932ba271d9c0aa4001e'}
-  - {seq: 3, role: markers, filename: assets/KR5c0391_003.markers.yaml, hash: 'sha256:bdc6a2928572787a92e0599b870b2e1d741a50bc9d7ef4a264e6e3a2c409c5f2'}
+  - {seq: 1, role: markers, filename: assets/KR5c0391_001.markers.yaml, hash: 'sha256:24d2fc97788063a6b88813ee8dd015c923a319c7db7865c2e2e77dc5b2b8e7fc'}
+  - {seq: 2, role: markers, filename: assets/KR5c0391_002.markers.yaml, hash: 'sha256:2565cf908a1da46187bfbda8a7dcb19d47bc02b4953d522125b6184984ff8884'}
+  - {seq: 3, role: markers, filename: assets/KR5c0391_003.markers.yaml, hash: 'sha256:274157d4a7313261e25466936cc1e5d01b20db8acec570c9e186963b5602073e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -56,4 +56,7 @@ table_of_contents:
   label: 莊子雜篇讓王二十八
   type: section
   level: 1
-hash: sha256:38b8f40d20b46a62d1a2f0bb5dc4a92a10689cd1f81c1a4890ad308f59b5fbc4
+hash: sha256:1b2f66b2f8274882921d2fc5da14f9ae669075b106bac28331949c4c193808cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
